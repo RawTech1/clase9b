@@ -1,5 +1,14 @@
-1. This is step 1.
-1. This is the next step.
-1. This is yet another step, the third.
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+>[!TIP]
+>
+>This is a standard TIP.
+
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
+
 
 
